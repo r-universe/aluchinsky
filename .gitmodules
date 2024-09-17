@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "TDAvec"]
 	path = TDAvec
-	url = https://github.com/cran/TDAvec
+	url = https://github.com/aluchinsky/tdavec
